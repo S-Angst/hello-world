@@ -1,2 +1,3 @@
 # hello-world
-我在Github上建立的第一个仓库
+My first repository on Github
+I love ☕ 🍵.
